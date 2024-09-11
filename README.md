@@ -1,1 +1,1 @@
-<h1 align="center">Mamoudou Diallo, developer/h1>
+<h1 align="center">Mamoudou Diallo, developer</h1>
